@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d8d67aa.css",
+    "main.js": "/static/js/main.b6a4b116.js",
+    "index.html": "/index.html",
+    "static/media/gurukul.jpg": "/static/media/gurukul.92b9d211aec85b7b7bf7.jpg",
+    "main.9d8d67aa.css.map": "/static/css/main.9d8d67aa.css.map",
+    "main.b6a4b116.js.map": "/static/js/main.b6a4b116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8d67aa.css",
+    "static/js/main.b6a4b116.js"
+  ]
+}
